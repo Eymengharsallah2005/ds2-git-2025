@@ -1,1 +1,1 @@
-print("Hello DS2 !")
+print("DS2 termine !")
